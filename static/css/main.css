@@ -1,0 +1,50 @@
+header{
+    border-bottom: 1px solid #275190;
+}
+
+.title{
+    text-align: center;
+}
+/*form*/
+.formStyle{
+    background-color: #ecf3f5;
+    border-radius: 0.5rem;
+    margin: 20px 120px;
+
+}
+
+.formStyle h4{
+    background-color: #f3fcff;
+    color: #006891;
+    border-bottom:  2px solid #9bd7eb;
+    border-radius: 0.5rem 0.5rem 0rem 0rem;
+    padding: 0.5rem;
+}
+/*content*/
+.contentStyle{
+    margin: 10px 0;
+}
+.btn{
+    padding: 3px 10px;
+}
+
+.titleNotYet{
+    /* background-color: #8bb8c6; */
+    padding: 10px 10px;
+    font-size: 18px;
+}
+
+.itemDone{
+    text-decoration: line-through;  /* 文字添加刪除線特效 */
+}
+.messageNotYet{
+    /* background-color: #bdd8e2; */
+    padding: 10px 10px;
+}
+
+
+/* footer */
+footer{
+    border-top: 1px solid rgb(39, 81, 144);
+    text-align: center;
+}
