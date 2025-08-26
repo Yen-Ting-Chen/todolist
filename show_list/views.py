@@ -30,7 +30,7 @@ def update(request,item_id):
         # item.description = f'海豐海鮮餐廳海景廳午宴{random.randint(1, 100)}'
         item.save()
         items = models.do_list.objects.all().order_by('deadline')
-        # return JsonResponse({'title': item.title, 'description': item.description})
+        return JsonResponse({'title': item.title, 'description': item.description})
 
 
     
