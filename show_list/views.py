@@ -16,8 +16,8 @@ def delete(request,pid = None):
         if item:
             item.delete()
 
-    # items = models.do_list.objects.all().order_by('deadline')
-    items = models.do_list.objects.get(id=17)
+    items = models.do_list.objects.all().order_by('deadline')
+    # items = models.do_list.objects.get(id=17)
     return render(request,"show_list/index.html",locals())
 
 def update(request,item_id):
