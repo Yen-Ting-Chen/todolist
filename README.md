@@ -130,7 +130,6 @@ to_do_list/
 - 加入 API (Django REST Framework)  
 - 支援行動裝置的 PWA  
 - 提供到期提醒通知   -->
----
 
 ## 授權
 歡迎自由修改與使用。
