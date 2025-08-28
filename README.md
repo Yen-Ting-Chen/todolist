@@ -1,7 +1,7 @@
 # To-Do List (Django)
 
-[![Django](https://img.shields.io/badge/Django-4.x-green.svg)](https://www.djangoproject.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+<!-- [![Django](https://img.shields.io/badge/Django-4.x-green.svg)](https://www.djangoproject.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) -->
 
 一個使用 **Django** 開發的簡單待辦清單應用，提供使用者新增、編輯、刪除與標記完成任務的功能，並可記錄完成狀態與到期時間。
 
