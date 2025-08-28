@@ -27,7 +27,7 @@
 
 ### 1. Clone 專案
 ```bash
-git clone https://github.com/your-username/to_do_list.git
+git clone https://github.com/Yen-Ting-Chen/todolist.git
 cd to_do_list
 ```
 
